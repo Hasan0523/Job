@@ -3,4 +3,11 @@
     <string name="welcome_to_our_portal_we_are_the_best_job_portal">Welcome to our portal, we are the best job portal</string>
     <string name="next">Next</string>
     <string name="the_place_where_work_finds_you">The place where work finds you</string>
+    <string name="get_started">Get started</string>
+    <string name="let_s_start_your_career_with_us_now">Let\'s start your career with us now</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="remember">Remember</string>
+    <string name="password">Password</string>
+    <string name="e_mail">E-mail</string>
+    <string name="sign_up">Sign up</string>
 </resources>
