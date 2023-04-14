@@ -6,7 +6,7 @@ import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
 import android.widget.Button
-
+//Bu Tanishtiruvning birinch oynasi
 class TanishtiruvOynasi : AppCompatActivity() {
     private lateinit var button1 : Button
     override fun onCreate(savedInstanceState: Bundle?) {
