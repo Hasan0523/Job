@@ -12,6 +12,9 @@
         android:theme="@style/Theme.JobSearchOnlineTortinchi"
         tools:targetApi="31">
         <activity
+            android:name=".LoginToYourAccount"
+            android:exported="false" />
+        <activity
             android:name=".AccountOchish"
             android:exported="false" />
         <activity
