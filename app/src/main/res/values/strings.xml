@@ -11,4 +11,10 @@
     <string name="e_mail">E-mail</string>
     <string name="sign_up">Sign up</string>
     <string name="login_to_your_account">Login to Your Account</string>
+    <string name="choose_your_job_type">Choose Your Job Type</string>
+    <string name="choose_whether_you_are_looking_for_a_job_or_you_are_an_organization_company_that_needs_employees">choose whether you are looking for a job or you are an organization company that needs employees</string>
+    <string name="i_want_to_find_employees">I want to find employees</string>
+    <string name="i_want_to_find_a_job_for_me">I want to find a job for me</string>
+    <string name="find_an_employee">Find an Employee</string>
+    <string name="find_a_job">Find a Job</string>
 </resources>

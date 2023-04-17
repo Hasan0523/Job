@@ -12,6 +12,15 @@
         android:theme="@style/Theme.JobSearchOnlineTortinchi"
         tools:targetApi="31">
         <activity
+            android:name=".IshchiMutaxassisligi"
+            android:exported="false" />
+        <activity
+            android:name=".Mutaxassislik"
+            android:exported="false" />
+        <activity
+            android:name=".IshTuriniTanlang"
+            android:exported="false" />
+        <activity
             android:name=".LoginToYourAccount"
             android:exported="false" />
         <activity
