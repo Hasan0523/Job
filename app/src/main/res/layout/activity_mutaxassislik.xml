@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -14,9 +14,9 @@
         <TextView
             android:id="@+id/textView"
             android:layout_width="match_parent"
-            android:layout_height="160dp"
+            android:layout_height="160sp"
             android:text="       Mutaxassisligingizni tanlang"
-            android:layout_marginBottom="100dp"
+            android:layout_marginBottom="100sp"
             android:textAlignment="center"
             android:textColor="@color/black"
             android:textSize="40sp"
@@ -36,8 +36,8 @@
                 android:textSize="30sp"
                 android:textAlignment="center"
                 android:textColor="@color/black"
-                android:layout_height="70dp"
-                android:layout_marginTop="180dp" />
+                android:layout_height="70sp"
+                android:layout_marginTop="180sp" />
 
             <CheckBox
                 android:id="@+id/RadioButton1"
@@ -46,7 +46,7 @@
                 android:textSize="30sp"
                 android:textAlignment="center"
                 android:textColor="@color/black"
-                android:layout_height="70dp" />
+                android:layout_height="70sp" />
 
             <CheckBox
                 android:id="@+id/RadioButton2"
@@ -67,7 +67,7 @@
             <CheckBox
                 android:id="@+id/RadioButton4"
                 android:layout_width="match_parent"
-                android:layout_height="70dp"
+                android:layout_height="70sp"
                 android:text="@string/media_dizayn_va_ijodkorlik"
                 android:textAlignment="center"
                 android:textColor="@color/black"
@@ -76,7 +76,7 @@
             <CheckBox
                 android:id="@+id/RadioButton5"
                 android:layout_width="match_parent"
-                android:layout_height="70dp"
+                android:layout_height="70sp"
                 android:text="@string/savdo_va_marketing"
                 android:textAlignment="center"
                 android:textColor="@color/black"
@@ -85,7 +85,7 @@
             <CheckBox
                 android:id="@+id/RadioButton6"
                 android:layout_width="match_parent"
-                android:layout_height="60dp"
+                android:layout_height="60sp"
                 android:text="@string/informatics_instructor"
                 android:textAlignment="center"
                 android:textColor="@color/black"
@@ -93,15 +93,15 @@
 
             <Button
                 android:id="@+id/button2"
-                android:layout_width="203dp"
-                android:layout_height="58dp"
+                android:layout_width="203sp"
+                android:layout_height="58sp"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:layout_marginStart="110dp"
-                android:layout_marginTop="5dp"
+                android:layout_marginStart="110sp"
+                android:layout_marginTop="5sp"
                 android:text="Continue" />
 
 
         </RadioGroup>
     </androidx.constraintlayout.widget.ConstraintLayout>
-</androidx.cardview.widget.CardView>
+</ScrollView>
