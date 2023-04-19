@@ -12,6 +12,9 @@
         android:theme="@style/Theme.JobSearchOnlineTortinchi"
         tools:targetApi="31">
         <activity
+            android:name=".ShaxsiyMalumotingizniKiriting"
+            android:exported="false" />
+        <activity
             android:name=".IshchiMutaxassisligi"
             android:exported="false" />
         <activity

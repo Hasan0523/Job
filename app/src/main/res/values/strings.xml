@@ -17,4 +17,13 @@
     <string name="i_want_to_find_a_job_for_me">I want to find a job for me</string>
     <string name="find_an_employee">Find an Employee</string>
     <string name="find_a_job">Find a Job</string>
+    <string name="buxgalteriya_va_moliya">Buxgalteriya va moliya</string>
+    <string name="arxitektura_va_muhandislik">Arxitektura va muhandislik</string>
+    <string name="information_technology_and_software">Information technology and Software</string>
+    <string name="management_and_consultancy">Management and consultancy</string>
+    <string name="media_dizayn_va_ijodkorlik">Media, dizayn va ijodkorlik</string>
+    <string name="savdo_va_marketing">Savdo va marketing</string>
+    <string name="informatics_instructor">Informatics instructor</string>
+    <string name="Davom_Eting">continue</string>
+    <string name="mutaxassisligingizni_tanlang">Mutaxassisligingizni tanlang</string>
 </resources>
